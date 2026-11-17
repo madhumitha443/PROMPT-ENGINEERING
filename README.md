@@ -65,7 +65,7 @@ Step 7: Finalize and Export
 # Output
 
 
-## **3. INTRODUCTION**
+## **1. INTRODUCTION**
 
 Artificial Intelligence (AI) is a technology that enables machines to perform tasks that normally require human intelligence.
 
@@ -75,9 +75,9 @@ Large Language Models (LLMs) are deep learning models trained using huge amounts
 
 Examples include ChatGPT, Google Gemini and other AI-powered applications.
 
-## **4. FUNDAMENTAL CONCEPTS OF GENERATIVE AI**
+## **2. FUNDAMENTAL CONCEPTS OF GENERATIVE AI**
 
-### **4.1 What is Generative AI?**
+### **2.1 What is Generative AI?**
 
 Generative AI (GenAI) is a type of artificial intelligence technology that can produce different types of content, including text, images, audio and synthetic data.
 
@@ -90,7 +90,7 @@ Generative AI relies on sophisticated machine learning models called deep learni
 - Stable Diffusion – Creates images using text prompts.
 - AI music generators – Generate music and audio.
 
-### **4.2 How Does Generative AI Work?**
+### **2.2 How Does Generative AI Work?**
 
 Generative AI models use neural networks to identify patterns and structures within existing data.
 
@@ -105,7 +105,7 @@ Generative AI models use neural networks to identify patterns and structures wit
 
 **Example:** When a user enters "Write a story about Artificial Intelligence", the AI model processes the prompt and generates a meaningful story.
 
-### **4.3 Evaluation of Generative AI Models**
+### **2.3 Evaluation of Generative AI Models**
 
 The three important requirements of a successful Generative AI model are:
 
@@ -115,11 +115,11 @@ The three important requirements of a successful Generative AI model are:
 
 **3. Speed:** The model should generate results quickly, especially in interactive applications.
 
-## **5. GENERATIVE AI ARCHITECTURES**
+## **3. GENERATIVE AI ARCHITECTURES**
 
 Different architectures are used to develop Generative AI models.
 
-### **5.1 Diffusion Models**
+### **3.1 Diffusion Models**
 
 [What Are the Types of Generative AI: Examples and Uses | VOSU.AI](https://images.openai.com/static-rsc-4/1j_1BJHLI5Sfvby94YczK8lIKvG-FN0tiFS7lDoqx7UV8Jmz5GPgcSzxeiGNRy87wS9CdpZDA2CIzMuU5xfncM5L90Rwd2Bn1N9JPnOUQnTBChhR-JpNuqkTxy_II2hdZx3o60pHCiujH34LTMJDO3N5AkX0HCuQzwfl2t4Iw1k?purpose=inline)
 
@@ -143,7 +143,7 @@ They work through two main processes:
 
 **Applications:** Image generation, digital art, image editing and video generation.
 
-### **5.2 Variational Autoencoders (VAEs)**
+### **3.2 Variational Autoencoders (VAEs)**
 
 [What Is Generative AI (GenAI)? The Definitive Guide - Palo Alto Networks](https://images.openai.com/static-rsc-4/49F_c-rA7desQJfybEjddsXsHZil2LpWEXodYdG0ss08EaDwVWhxMmxY_OdYOAiSBJHgfhXds_ubagWH6nWIvOXOXmzQoXC5bPrrrICGSvFs5kAg3yOrTMPHRM4IMCO6bzbGBjtgj_42-cuwlcztVHcTlX4I_ZP0JR85NF29dzQ?purpose=inline)
 
@@ -166,7 +166,7 @@ Variational Autoencoders consist of two neural networks called the encoder and d
 
 **Applications:** Image generation, data compression and anomaly detection.
 
-### **5.3 Generative Adversarial Networks (GANs)**
+### **3.3 Generative Adversarial Networks (GANs)**
 
 [Generative Adversarial Network](https://images.openai.com/static-rsc-4/ak8LEbXTyXdrB0SzgKVpeXtlD-H7Whs2pzhHt_6prqe7j31HpfzGJk8vwBt1P42Kz5pY06SaoChDY5rSRDKZoGz3j7SqaWmrwIkhjEJKzou-VU6rHxQ7EHiH3D2Bo39NBKlGcF7lsnjG6pKGk8PXep6sTRwGfoiMOqP4m4DOFhc?purpose=inline)
 
@@ -189,7 +189,7 @@ Generative Adversarial Networks were introduced in 2014. They consist of two neu
 
 **Applications:** Face generation, image enhancement and synthetic data generation.
 
-### **5.4 Transformer Networks**
+### **3.4 Transformer Networks**
 
 [AI-大语言模型LLM-Transformer架构3-嵌入和位置编码 - 技术栈](https://images.openai.com/static-rsc-4/3lGKCbNSdqF_ulQvyJZuBVFD6aywcQlxYW7GGyK7H1HKSWL6yaNuFJdWmpS8hxGc6lzBCj0kGuqUStuAISO22s7w8HTELqw0QbnppMoRMN2_7Kjavimbg6J4HzX0mpzd-wVuMq_qMTpyCGb99d6YpFx4rHsR6fvIGIBa9SD3vXQ?purpose=inline)
 
@@ -209,13 +209,13 @@ They are designed to process sequential input data efficiently using attention m
 
 **Applications:** Text generation, language translation, summarization and conversational AI.
 
-## **6. INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)**
+## **4. INTRODUCTION TO LARGE LANGUAGE MODELS (LLMs)**
 
 Large Language Models are AI models trained on extensive textual datasets to understand and generate human-like language.
 
 They use deep learning techniques and Transformer architectures to identify linguistic patterns and relationships.
 
-### **6.1 Key Features of LLMs**
+### **4.1 Key Features of LLMs**
 
 1. Context Awareness – Understands the meaning of text based on context.
 2. Scalability – Can be trained using large datasets and computational resources.
@@ -223,7 +223,7 @@ They use deep learning techniques and Transformer architectures to identify ling
 4. Autoregressive Processing – Predicts the next token based on previously generated tokens.
 5. Multilingual Support – Supports multiple languages.
 
-### **6.2 Architecture of LLMs**
+### **4.2 Architecture of LLMs**
 
 [The Rise of LLMs: From GPT to Modern Innovations | by LM Po | Medium](https://images.openai.com/static-rsc-4/sdU1TmFbPqxcQsrGGSZtWucV7-rTv4CZI2zlAAVGckVLY8Kf5Zn-KsbGRls2eRzlpKemMKSD9MPKffQmZ_8Nxa1AeYEHvUWA9xjVU29M1ohI8BxsytcYqlq3sQ94ovvHTRn9I7aq_jqr7hta-HQMpz7Sw0FT0bkeDy_g_r-ScMA?purpose=inline)
 
@@ -240,7 +240,7 @@ The Transformer model, introduced in the research paper *Attention Is All You Ne
 - Feed-Forward Layers
 - Output Prediction
 
-### **6.3 Types of LLMs**
+### **4.3 Types of LLMs**
 
 **1. Zero-Shot Models**
 
@@ -266,7 +266,7 @@ These models can process multiple types of input, such as text, images and audio
 
 Example: Multimodal versions of GPT and Gemini.
 
-## **7. HOW DO LARGE LANGUAGE MODELS WORK?**
+## **5. HOW DO LARGE LANGUAGE MODELS WORK?**
 
 The functioning of LLMs can be explained through the following steps:
 
@@ -282,7 +282,7 @@ Input: "Artificial Intelligence is"
 
 Possible generated output: "Artificial Intelligence is a technology that enables machines to perform intelligent tasks."
 
-## **8. APPLICATIONS OF GENERATIVE AI AND LLMs**
+## **6. APPLICATIONS OF GENERATIVE AI AND LLMs**
 
 [AI Chatbot Interface by Nixtio on Dribbble](https://images.openai.com/static-rsc-4/NVZRGajhTlK8MfQkaE-X4GN5wvoVjU1Pdv3-QqJzygGxAfptjksOWivvI_HHbsSRqtfWMIQJ_04fFh18J1Z65Wxuv6VVx0Yi5M06cA06S1ztgE8QkU2nkKJcGdCo9mtHrMIP7o2myiMkbDCisdHMJanmccoAujVYCMZl9LFJrUw?purpose=inline)
 
@@ -290,7 +290,7 @@ Possible generated output: "Artificial Intelligence is a technology that enables
 
 [AI Coding & Dev Tools - Amazon Q - AWS](https://images.openai.com/static-rsc-4/YNiFbhUhpQeU_4beTwZdGvZkBWFG3xoBYMJxbtjw6DmNZmHY-SVWs2G6zFzOqPGkCU3FzsTyHNxm2-vdUrKatnyCy9ZQbtXZnZbXTxFOXy4qsMlSOnC_EVWNyKF-dH7tuSKCFhAgitrbvAfKKotW01FOqlHyscIrfRLt9iY9HXw?purpose=inline)
 
-8
+
 
 Generative AI models can accept text, images, audio, video and code as inputs and generate new content.
 
@@ -304,7 +304,7 @@ Generative AI models can accept text, images, audio, video and code as inputs an
 | Entertainment        | Creates images, videos and music             |
 | Business             | Automates reports and customer communication |
 
-## **9. BENEFITS OF GENERATIVE AI**
+## **7. BENEFITS OF GENERATIVE AI**
 
 **1. Improved Efficiency:** Automates repetitive tasks and saves time.
 
@@ -318,17 +318,17 @@ Generative AI models can accept text, images, audio, video and code as inputs an
 
 **6. Content Creation and Inspiration:** Helps users generate creative content such as stories, poems, images and presentations.
 
-## **10. IMPACT OF SCALING IN LARGE LANGUAGE MODELS**
+## **8. IMPACT OF SCALING IN LARGE LANGUAGE MODELS**
 
 Scaling refers to increasing the size of an AI model, training data and computational resources to improve its capabilities.
 
-### **10.1 Important Scaling Factors**
+### **8.1 Important Scaling Factors**
 
 1. **Model Parameters:** Increasing the number of parameters allows models to learn more complex patterns.
 2. **Training Data:** Increasing the amount and quality of training data improves language learning.
 3. **Computational Resources:** Using more powerful GPUs and processing systems supports large-scale training.
 
-### **10.2 Positive Impact of Scaling**
+### **8.2 Positive Impact of Scaling**
 
 - Improves language understanding.
 - Enhances text generation quality.
@@ -337,7 +337,7 @@ Scaling refers to increasing the size of an AI model, training data and computat
 - Enables more advanced reasoning and problem-solving.
 - Improves performance across different applications.
 
-### **10.3 Challenges of Scaling**
+### **8.3 Challenges of Scaling**
 
 - Requires expensive hardware.
 - Increases electricity consumption.
@@ -346,7 +346,7 @@ Scaling refers to increasing the size of an AI model, training data and computat
 - May require more memory and storage.
 - Does not automatically eliminate incorrect or biased outputs.
 
-### **10.4 Comparison of GPT Models**
+### **8.4 Comparison of GPT Models**
 
 | Model            | Major Development                                           |
 | ---------------- | ----------------------------------------------------------- |
@@ -357,7 +357,7 @@ Scaling refers to increasing the size of an AI model, training data and computat
 
 Scaling improves the capabilities of LLMs, but the quality of training data, model architecture and training methods are also important.
 
-## **11. LIMITATIONS AND ETHICAL CONSIDERATIONS**
+## **9. LIMITATIONS AND ETHICAL CONSIDERATIONS**
 
 Although Generative AI and LLMs provide many benefits, they also have certain limitations.
 
@@ -375,7 +375,7 @@ Although Generative AI and LLMs provide many benefits, they also have certain li
 
 **7. Security Issues:** Malicious prompts and other attacks may affect the reliability of AI systems.
 
-## **12. FUTURE TRENDS OF GENERATIVE AI**
+## **10. FUTURE TRENDS OF GENERATIVE AI**
 
 The future of Generative AI includes several important developments:
 
@@ -386,7 +386,7 @@ The future of Generative AI includes several important developments:
 5. **Efficient Language Models:** Development of smaller, faster and more energy-efficient models.
 6. **Responsible AI:** Greater focus on privacy, transparency, fairness and safety.
 
-## **13. CONCLUSION**
+## **11. CONCLUSION**
 
 Generative AI and Large Language Models have transformed the field of Artificial Intelligence by enabling machines to understand and generate new content.
 
@@ -399,7 +399,7 @@ Scaling improves the capabilities of LLMs by increasing model parameters, traini
 Therefore, Generative AI has significant potential to transform education, healthcare, business and technology when developed and used responsibly.
 
 
-## 16. RESULT
+## 12. RESULT
 
 Thus, the comprehensive report on the fundamentals of Generative AI and Large Language Models (LLMs) was successfully prepared. The different Generative AI architectures, working principles, applications and impact of scaling in LLMs were studied and understood.
 
